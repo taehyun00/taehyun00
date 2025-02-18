@@ -1,3 +1,5 @@
+<h1>안녕하십니까 김태현입니다</h1>
+
 <h3>About me</h3>
 <a href="https://velog.io/@x0gus/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"/></a>
 <hr>
@@ -10,3 +12,7 @@
 </a>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyun00&count_private=true&show_icons=true&theme=solarized-light)
+
+<hr>
+
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/x0gus?theme=light&posts=3)
