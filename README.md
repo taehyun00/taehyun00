@@ -1,10 +1,9 @@
-<h1>안녕하세요 늦게 핀 꽃의 아름다움,김태현입니다
+<h1 style = "border-bottom : 1px;">안녕하세요 늦게 핀 꽃의 아름다움,김태현입니다</h1>
 
-<a href="https://github.com/taehyun00"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 
 <img src="http://mazandi.herokuapp.com/api?handle=x0gus&theme=gold"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=x0gus)](https://solved.ac/x0gus/)
 
-</h1>
+
 
 <div style = "text-align : left;">
   <h2 style = "border-bottom : 1px;"> 스택 </h2>
