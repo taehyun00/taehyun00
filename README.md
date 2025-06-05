@@ -1,6 +1,3 @@
-<h1 style = "border-bottom : 1px;">안녕하세요 늦게 핀 꽃의 아름다움,김태현입니다</h1>
-
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=x0gus)](https://solved.ac/x0gus/)
 
 
