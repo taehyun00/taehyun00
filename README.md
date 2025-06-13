@@ -3,20 +3,19 @@
 
 
 <div style = "text-align : left;">
-  <h2 style = "border-bottom : 1px;"> 스택 </h2>
+  <h2 style = "border-bottom : 1px;">🛠️</h2>
   <br>
   <div style="margin: ; text-align: left;" "text-align: left;">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
            <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </div>
   <br>
 
   <div>
-    <h2 style = "border-bottom : 1px;">훔쳐보기</h2>
+    <h2 style = "border-bottom : 1px;">🧑‍💻</h2>
     <br>
     <a href="https://velog.io/x0gus/posts"><img alt="velog" src ="https://img.shields.io/badge/velog-20C997.svg?&style=for-the-badge&logo=velog&logoColor=white"/></a>
     <a href="https://x0gus.notion.site/11841f4d7aeb80a38712cb2fabe37f26"><img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
