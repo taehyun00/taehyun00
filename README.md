@@ -1,7 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=x0gus)](https://solved.ac/x0gus/)
 
-
-
 <div style = "text-align : left;">
   <h2 style = "border-bottom : 1px;">🛠️</h2>
   <br>
@@ -11,10 +9,10 @@
           <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
           <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-          
-
-    
+            
   </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=taehyun00&theme=graywhite" style="height:10rem">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyun00&layout=compact" style="height:10rem">
   <br>
 
   <div>
