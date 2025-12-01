@@ -11,8 +11,7 @@
           <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
             
   </div>
-  <img src="https://github-readme-stats.vercel.app/api?username=taehyun00&theme=graywhite" style="height:10rem">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyun00&layout=compact" style="height:10rem">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taehyun00&layout=compact" style="height:10rem">
   <br>
 
   <div>
