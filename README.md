@@ -1,4 +1,3 @@
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=x0gus)](https://solved.ac/x0gus/)
 
 <div style = "text-align : left;">
   <h2 style = "border-bottom : 1px;">🛠️</h2>
